@@ -10,3 +10,7 @@ The main philosophy lies in relaxing the geodesic to a retraction via Cayley tra
 
 1. Armijo condition for monotone line search. 
 2. Samples from Haar distribution for multiple start.
+
+
+## Dependency
+pip install numpy scipy joblib
