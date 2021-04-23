@@ -13,4 +13,4 @@ The main philosophy lies in relaxing the geodesic to a retraction via Cayley tra
 
 
 ## Dependency
-pip install numpy scipy joblib
+`pip install numpy scipy joblib`
